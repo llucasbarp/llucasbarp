@@ -1,4 +1,5 @@
-## Oi, eu sou a Lucas Barp, programador e web designer!
+##
+Lucas Barp, programador e web designer!
 
 <div align="center">
   <a href="https://github.com/llucasbarp">
